@@ -1,0 +1,5 @@
+{
+  "searchFolder": "C:/Path/To/Assemblies",
+  "fileSearchPattern": "*.dll",
+  "interfaceName": "InsERT.Mox.Validation.IDataError"
+}
